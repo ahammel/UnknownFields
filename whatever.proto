@@ -1,0 +1,3 @@
+message Whatever {
+    optional string foo = 1;
+}
